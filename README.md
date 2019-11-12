@@ -1,0 +1,2 @@
+# assBNGW
+sample and assignment
